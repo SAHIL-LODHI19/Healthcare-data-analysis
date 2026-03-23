@@ -125,7 +125,7 @@ This project develops a **Power BI dashboard** designed to bridge that gap — p
 **Sahil Lodhi**
 MBA Student | Amity Global Business School, Indore
 📧 *(Add your email)*
-🔗 *(Add your LinkedIn profile link)*
+🔗 *[(Add your LinkedIn profile link)](https://www.linkedin.com/in/sahil-lodhi-468463208/)*
 
 ---
 
